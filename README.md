@@ -94,7 +94,7 @@ Jika telah melakukan langkah-langkah Setup Environment di atas untuk menjalankan
 4. _Predicted Resign_ – Memprediksi jumlah karyawan yang akan meninggalkan perusahaan berdasarkan departemen dan frekuensi perjalanan mereka, mencakup _BusinessTravel, Research & Development, Sales,_ dan _Human Resources_ dengan kategori perjalanan seperti _Travel Frequently_ dan _Non Travel_.
 5. _Department / Predicted Attrition_ – Menampilkan prediksi tingkat attrisi berdasarkan departemen dan frekuensi perjalanan, dengan kategori perjalanan seperti _Travel Rarely, Travel Frequently_,_ dan _Non Travel_.
 
-![Employee Attrition Dasboard Jaya Jaya Maju]()
+![indira-kbs-dashboard](https://github.com/user-attachments/assets/6ee60107-ffbc-4519-af09-6b2ceefe6a9d)
 
 
 ## Conclusion
